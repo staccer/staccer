@@ -10,6 +10,8 @@ Staccer is a professional Pay-Per-View (PPV) ecosystem that allows creators to s
 
 ---
 
+[[PoC](https://staccer.me/_assets/media/ea175226c18b6eb513e3fdbd964aeeae.png)](https://staccer.me)
+
 ## 🚀 Why Creators Choose Staccer
 
 Traditional PPV platforms rely on clunky external links that kill conversion rates. Staccer keeps the transaction where the conversation is: **in the chat.**
