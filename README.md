@@ -10,7 +10,7 @@ Staccer is a professional Pay-Per-View (PPV) ecosystem that allows creators to s
 
 ---
 
-[[PoC](https://staccer.me/_assets/media/ea175226c18b6eb513e3fdbd964aeeae.png)](https://staccer.me)
+![Staccer Banner](https://staccer.me/_assets/media/ea175226c18b6eb513e3fdbd964aeeae.png)
 
 ## 🚀 Why Creators Choose Staccer
 
