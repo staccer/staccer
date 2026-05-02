@@ -25,10 +25,8 @@ Traditional PPV platforms rely on clunky external links that kill conversion rat
 
 We are constantly iterating based on feedback from our agency partners and independent creators.
 
-*   **✅ Phase 1 (Baseline):** Initial Proof-of-Concept release.
-*   **🔥 Phase 2 (Coming May):** Major Bot Update! restructuring core parts for better performance, mass-sending directly from chats, and a brand new built-in media library.
-*   **🔐 Phase 3 (Upcoming Months):** Decentralized Trust Layer. Integration of the **SmartStaccer** TON contract to provide transparent, secured creator payouts.
-*   **🤝 Phase 4 (Future):** Referral programs and direct cloud imports (G-Drive/Dropbox).
+*   **(Coming May):** Major Bot Update! restructuring core parts for better performance, content-albums directly to chats, and Referral program.
+*   **(Upcoming Months):** Decentralized Trust Layer. Integration of the **SmartStaccer** TON contract to provide transparent, secured creator payouts.
 
 ---
 
