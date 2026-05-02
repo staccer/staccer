@@ -17,7 +17,7 @@ Traditional PPV platforms rely on clunky external links that kill conversion rat
 *   **🤫 Engaging:** Content is sent without "via bot" tags. It looks organic.
 *   **🙅‍♂️ Easy:** No suspicious 3rd-party links or redirects.
 *   **⚡ Fast:** Sending paid content takes only a few seconds.
-*   **📂 Library:** Built-in cloud storage to reuse your best-performing content.
+*   **📂 Library:** Built-in Library to reuse your best-performing content.
 
 ---
 
