@@ -8,9 +8,9 @@ Staccer is a professional Pay-Per-View (PPV) ecosystem that allows creators to s
 
 > **The Goal:** Providing a seamless, high-conversion experience where fans never even realize they are interacting with a bot.
 
----
-
 ![Staccer Banner](https://staccer.me/_assets/media/ea175226c18b6eb513e3fdbd964aeeae.png)
+
+---
 
 ## 🚀 Why Creators Choose Staccer
 
